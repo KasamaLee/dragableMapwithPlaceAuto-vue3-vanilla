@@ -1,8 +1,9 @@
+### API
+
+assign ```key``` value (API KEY) in GoogleMap.vue
+
 ### Start project
-
 ```
-assign key in GoogleMap.vue
-
 npm install
 npm run dev
 ```
