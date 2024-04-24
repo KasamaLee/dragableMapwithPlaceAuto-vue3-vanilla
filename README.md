@@ -8,5 +8,7 @@ npm install
 npm run dev
 ```
 
-### preview
+
+
+### Preview
 ![Alt Text](/src/assets/mappreview.gif)
